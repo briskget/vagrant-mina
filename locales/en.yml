@@ -1,0 +1,8 @@
+en:
+  vagrant:
+    provisioners:
+      mina:
+        no_deploy_file: |-
+          You must set the path to the Mina deploy file..
+        file_path_invalid: |-
+          No Mina deploy file was found at the provided path.
